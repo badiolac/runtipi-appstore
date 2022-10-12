@@ -1,0 +1,14 @@
+{
+  "name": "Kavita",
+  "available": true,
+  "port": 8132,
+  "tipi_version": 1,
+  "version": "latest",
+  "id": "kavita",
+  "categories": ["books", "media"],
+  "description": "Kavita is a full-fledged, fast, cross-platform, & open-source manga, comic, and book server",
+  "short_desc": "The self hosted manga server",
+  "author": "https://github.com/Kareadita",
+  "source": "https://github.com/Kareadita/Kavita",
+  "form_fields": []
+}
